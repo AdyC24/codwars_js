@@ -1,6 +1,6 @@
 References of JS methods:
 
-indexOf('param')    => Mencari lokasi array didalam index dengan parameter isi array.
+indexOf('param')    => Mencari lokasi array didalam index dengan parameter isi array. <br>
 map()               => Membuat array baru dengan array lama sebagai parameternya.
 map(Number)         => Membuat array baru dengan array lama sebagai parameternya dan ubah jenis setiap data didalamnya menjadi Number.
 parseInt(param)     => Mengubah string yang terdapat didalam param menjadi number desimal bulat.

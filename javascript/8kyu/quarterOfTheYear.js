@@ -23,3 +23,5 @@ describe("Basic Tests", () =>{
 const quarterOf = (month) => {
     return Math.ceil(month / 3); //Membuat ataskan hasil perkalian parameter month dibagi 3
   }
+
+//   COMPLETED

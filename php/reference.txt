@@ -1,0 +1,3 @@
+Reference of PHP methods:
+
+ceil($devide)           => Bulatkan keatas parameter $devide dengan metode ceil();
